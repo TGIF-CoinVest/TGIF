@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/coinvest_bg.qm</file>
+        <file alias="de">locale/coinvest_de.qm</file>
+        <file alias="en">locale/coinvest_en.qm</file>
+        <file alias="es">locale/coinvest_es.qm</file>
+        <file alias="fi">locale/coinvest_fi.qm</file>
+        <file alias="fr">locale/coinvest_fr.qm</file>
+        <file alias="it">locale/coinvest_it.qm</file>
+        <file alias="ja">locale/coinvest_ja.qm</file>
+        <file alias="nl">locale/coinvest_nl.qm</file>
+        <file alias="pl">locale/coinvest_pl.qm</file>
+        <file alias="pt">locale/coinvest_pt.qm</file>
+        <file alias="ru">locale/coinvest_ru.qm</file>
+        <file alias="sk">locale/coinvest_sk.qm</file>
+        <file alias="sv">locale/coinvest_sv.qm</file>
+        <file alias="vi">locale/coinvest_vi.qm</file>
+        <file alias="zh_CN">locale/coinvest_zh_CN.qm</file>
+        <file alias="zh_TW">locale/coinvest_zh_TW.qm</file>
+    </qresource>
+</RCC>

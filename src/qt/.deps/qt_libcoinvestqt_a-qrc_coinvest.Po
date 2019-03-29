@@ -1,0 +1,4 @@
+qt/qt_libcoinvestqt_a-qrc_coinvest.o: qt/qrc_coinvest.cpp \
+ /usr/include/stdc-predef.h
+
+/usr/include/stdc-predef.h:

@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=CoinVest Core
+Comment=CoinVest P2P Cryptocurrency
+Comment[de]=Verbinde mit dem CoinVest peer-to-peer Netzwerk
+Comment[fr]=CoinVest, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=CoinVest, eşten eşe kriptografik sanal para birimi
+Exec=coinvest-qt %u
+Terminal=false
+Type=Application
+Icon=coinvest128
+MimeType=x-scheme-handler/coinvest;
+Categories=Office;Finance;
